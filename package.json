@@ -10,8 +10,10 @@
   },
   "dependencies": {
     "eslint": "^8.35.0",
+    "infinite-react-carousel": "^1.2.11",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.8.2",
     "scss": "^0.2.4"
   },
   "devDependencies": {
